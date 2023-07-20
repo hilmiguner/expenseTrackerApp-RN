@@ -1,5 +1,4 @@
 import { createContext, useReducer } from "react";
-import { act } from "react-test-renderer";
 
 const DUMMY_EXPENSES = [
     {
